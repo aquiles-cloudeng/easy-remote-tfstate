@@ -10,7 +10,7 @@ An easy way to implement remote tfstate with AWS
 
 3. Run terraform apply.
 
-4. Uncomment from line 19 to line 25 in terraform.tf file and change the bucket and dynamo db name with the output provided by.
+4. Uncomment from line 19 to line 25 in terraform.tf file and change the bucket and dynamo db name with the output provided in step 3.
 
 5. Run terraform apply again.
 
